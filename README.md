@@ -17,16 +17,20 @@
 
 Kaggle の SIIM-ACR Pneumothorax Segmentation コンペで、1475人中256位でした。
 専門は SRE ですが、アルゴリズムエンジニアの機械学習タスクを理解した基盤の構築ができます。
+
 https://www.kaggle.com/masdoi
 
 JAWS DAYS 2015 で Github と IaC を連携したインフラ運用のセッションを持ちました。
 AWS に関しては一定の専門性を有しています。
+
 https://speakerdeck.com/mdoi/kai-fa-suruyouniyun-yong-suruinhura-jaws-days-2015
 
 大規模な基盤向けのモニタリングを OSS で行っていましたが限界があり、自社の規模向けのモニタリングシステムを設計・開発しました。
+
 https://labs.gree.jp/blog/2011/01/2390/
 
 同システムの基盤となるメッセージング手法について、特許を取得しました。
+
 https://patents.google.com/patent/JP5869018B2/ja
 
 ## 主な担当プロジェクト
