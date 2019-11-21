@@ -15,7 +15,7 @@
 - Webのバックエンド開発
     - 3年の実務経験があります。Ruby (と Rails)が最も得意です。
 
-SIIM-ACR Pneumothorax Segmentation コンペで、1475人中256位でした。
+Kaggle の SIIM-ACR Pneumothorax Segmentation コンペで、1475人中256位でした。
 専門は SRE ですが、アルゴリズムエンジニアの機械学習タスクを理解した基盤の構築ができます。
 https://www.kaggle.com/masdoi
 
