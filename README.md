@@ -1,7 +1,7 @@
 # レジュメ
 ## 連絡方法
 - twitter: https://twitter.com/m_doi
-- email: m[@]mdoi.io
+- email: m@mdoi.io
 
 ## 求職条件
 - 勤務地: 福岡在住でも可能なお仕事を探しています。
